@@ -41,7 +41,7 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40" />
 </a>
  <a href="https://github.com/netwide-assembler/nasm" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Netwide_Assembler.svg" alt="nasm" width="80" height="40" />
+        <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nasm_icon_132182.png" alt="nasm" width="40" height="40" />
     </a>
 <a href="https://www.git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" />
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" width="40" height="40" />
     </a>
     <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="PyTorch" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40" />
     </a>
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" />
@@ -75,11 +75,14 @@ Here are some ideas to get you started:
     <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40" />
     </a>
+    <a href="https://www.ssh.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg" alt="ssh" width="40" height="40" />
+    </a>
     <a href="https://hexo.io/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/>
     </a>
-    <a href="https://www.ssh.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg" alt="ssh" width="40" height="40" />
+    <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/>
     </a>
 </div>
 <div align="center">
@@ -89,8 +92,14 @@ Here are some ideas to get you started:
     <a href="https://www.google.com/chrome" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="chrome" width="40" height="40"/>
     </a>
+    <a href="https://www.baidu.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/baidu/baidu-icon.svg" alt="baidu" width="40" height="40"/>
+    </a>
     <a href="https://www.google.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="google" width="40" height="40"/>
+    </a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     </a>
     <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="windows11" width="40" height="40" />
@@ -105,12 +114,14 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Github" width="40" height="40" />
 </a>
     <a href="https://www.vmware.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" alt="VMWare" width="120" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" alt="VMWare" width="40" height="40" />
 </a>
     <a href="https://www.qemu.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Qemu_logo.svg" alt="Qemu" width="100" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/qemu/qemu-icon.svg" alt="Qemu" width="40" height="40" />
 </a>
 </div>
+
+
 
 
 
@@ -124,4 +135,5 @@ Here are some ideas to get you started:
     <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZYXinnn&layout=compact&langs_count=8" />
     <span>&emsp;&emsp;</span>
 </div>
+
 

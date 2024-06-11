@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋-->
 
 <!--
 **ZYXinnn/ZYXinnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -83,6 +83,9 @@ Here are some ideas to get you started:
     </a>
 </div>
 <div align="center">
+    <a href="https://www.microsoft.com/en-us/edge" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Microsoft_Edge_logo_%282019%29.svg" alt="edge" width="40" height="40"/>
+    </a>
     <a href="https://www.google.com/chrome" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="chrome" width="40" height="40"/>
     </a>
@@ -121,3 +124,4 @@ Here are some ideas to get you started:
     <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZYXinnn&layout=compact&langs_count=8" />
     <span>&emsp;&emsp;</span>
 </div>
+

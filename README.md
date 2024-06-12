@@ -54,6 +54,9 @@ Here are some ideas to get you started:
     <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40" />
     </a>
+    <a href="https://typora.io/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/Papirus/64x64/apps/typora.svg" alt="Typora" width="50" height="40" />
+    </a>
     <a href="https://qt.io" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="qt" width="40" height="40" />
     </a>
@@ -86,23 +89,11 @@ Here are some ideas to get you started:
     </a>
 </div>
 <div align="center">
-    <a href="https://www.microsoft.com/en-us/edge" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Microsoft_Edge_logo_%282019%29.svg" alt="edge" width="40" height="40"/>
-    </a>
-    <a href="https://www.google.com/chrome" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="chrome" width="40" height="40"/>
-    </a>
-    <a href="https://www.baidu.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/baidu/baidu-icon.svg" alt="baidu" width="40" height="40"/>
-    </a>
-    <a href="https://www.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="google" width="40" height="40"/>
+    <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="windows11" width="40" height="40" />
     </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    </a>
-    <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="windows11" width="40" height="40" />
     </a>
     <a href="https://www.ubuntu.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="40" />
@@ -119,7 +110,20 @@ Here are some ideas to get you started:
     <a href="https://www.qemu.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/qemu/qemu-icon.svg" alt="Qemu" width="40" height="40" />
 </a>
+    <a href="https://www.microsoft.com/en-us/edge" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Microsoft_Edge_logo_%282019%29.svg" alt="edge" width="40" height="40"/>
+    </a>
+    <a href="https://www.google.com/chrome" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="chrome" width="40" height="40"/>
+    </a>
+    <a href="https://www.baidu.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/baidu/baidu-icon.svg" alt="baidu" width="40" height="40"/>
+    </a>
+    <a href="https://www.google.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="google" width="40" height="40"/>
+    </a>
 </div>
+
 
 
 

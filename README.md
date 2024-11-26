@@ -43,11 +43,11 @@ Here are some ideas to get you started:
  <a href="https://github.com/netwide-assembler/nasm" target="_blank" rel="noreferrer">
         <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nasm_icon_132182.png" alt="nasm" width="40" height="40" />
     </a>
-<a href="https://julialang.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original-wordmark.svg" alt="julia" width="40" height="40" />
-</a>
 <a href="https://www.git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" />
+<a href="https://julialang.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg" alt="julia" width="40" height="40" />
+</a>
 </a>
 </div>
 <div align="center">

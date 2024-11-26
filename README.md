@@ -45,10 +45,10 @@ Here are some ideas to get you started:
     </a>
 <a href="https://www.git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" />
+    </a>
 <a href="https://julialang.org/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg" alt="julia" width="40" height="40" />
-</a>
-</a>
+    </a>
 </div>
 <div align="center">
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">

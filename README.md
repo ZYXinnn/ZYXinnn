@@ -16,6 +16,15 @@ Here are some ideas to get you started:
 -->
 
 **<h1 align="center"><ins>ZYXin</ins></h1>**
+### 📝 Pages and Blog
+<div align="center">
+    <a href="https://zyxin.me/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Homepage" width="40" height="40"/>
+    </a>
+    <a href="https://blog.zyxin.me/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="Blog" width="40" height="40"/>
+    </a>
+</div>
 
 ### 🔨 Skills and Tools
 
